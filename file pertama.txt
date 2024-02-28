@@ -8,5 +8,5 @@ MATERI MSIB6 AKADEMI FULLSTACK
 -MySQL
 -Rest API
 -consum API
--Belajar bersama
+-Belajar bersama teman
 //git add untuk menambahkan file
